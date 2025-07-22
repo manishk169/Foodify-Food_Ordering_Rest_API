@@ -13,6 +13,11 @@ target/
 .idea/
 *.iml
 
+
+.factorypath
+HELP.md
+
+
 # OS generated files
 .DS_Store
 Thumbs.db
