@@ -6,11 +6,11 @@ Built with **Spring Boot** and **MySQL**, this API allows users to browse menu i
 ---
 
 ## 📌 Features
-- **User Management**: Register, login, and manage user accounts.
-- **Menu Management**: View and manage food items (CRUD operations).
-- **Order Management**: Place new orders, view order history, update or cancel orders.
-- **Category Support**: Organize food items by categories (e.g., Pizza, Burgers, Desserts).
-- **Payment Status Tracking**: Track payment status for each order.
+- **User Registration & Authentication** – Register new users and authenticate them before login.  
+- **Food Item Management** – Add new food items and view all available food items.  
+- **Order Placement** – Place new orders for food items.  
+- **Order Retrieval** – View all orders for a specific user or get details of a specific order by ID.
+- **Payment** - Create a new Payment and manage the Order Status based on Payment Status(Success or Failed). 
 
 ---
 
