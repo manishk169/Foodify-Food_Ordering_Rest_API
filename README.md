@@ -17,9 +17,10 @@ Built with **Spring Boot** and **MySQL**, this API allows users to browse menu i
 ## 🛠 Tech Stack
 - **Backend**: Spring Boot (Java)
 - **Database**: MySQL
-- **Documentation**: Swagger UI / Manual API docs
+- **Documentation**: Swagger UI 
 - **Build Tool**: Maven
 
 ---
 
 ## 🔗 Base URL
+http://localhost:8080
