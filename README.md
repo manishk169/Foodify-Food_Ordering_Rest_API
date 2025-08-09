@@ -1,4 +1,4 @@
-# 🍔 Food Ordering REST API
+# 🍔 FOODIFY- Food Ordering REST API
 
 A simple RESTful API for managing a food ordering system.  
 Built with **Spring Boot** and **MySQL**, this API allows users to browse menu items, place orders, and manage their accounts.
